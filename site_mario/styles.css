@@ -1,0 +1,17 @@
+body {
+    background-color: #bda7a7;
+}
+menu{
+    list-style: none;
+   background-color: #ac5f5f;
+   color: white;
+   display: flex;
+   justify-content: flex-end;
+   padding-top: 30px;
+   padding-bottom: 30px;
+   padding-right: 20px;
+   margin-top: 0%;
+}
+menu li{
+    margin-left: 60px;
+}
